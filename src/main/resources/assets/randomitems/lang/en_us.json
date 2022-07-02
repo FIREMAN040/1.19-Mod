@@ -2,5 +2,12 @@
   "item.randomitems.zircon": "Zircon",
   "item.randomitems.raw_zircon": "Raw Zircon",
 
+
+  "block.randomitems.zircon_block": "Block of Zircon",
+  "block.randomitems.zircon_ore": "Zircon Ore",
+  "block.randomitems.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
+
+
   "itemGroup.randomitemstab": "Random Items"
 }
